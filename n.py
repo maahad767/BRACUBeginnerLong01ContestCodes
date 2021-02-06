@@ -3,7 +3,6 @@ def main():
 
     for _ in range(tc):
         num = int(input())
-        
         neg_sum = 0
         i = 1
         while i <= num:
